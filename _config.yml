@@ -8,10 +8,10 @@ image_thumbs_loc: "/images/thumbs"
 # UI configs
 title: "The Light Lab"
 #subtitle: "See the world through my eyes!"
-author: "Ashwinikumar Kulkarni"
+author: "AK"
 header:
  title: "The Light Lab"
- subtitle: "by Ashwinikumar Kulkarni"
+ subtitle: "by AK"
 footer:
  name: "Hello! I am AK!"
  #bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
